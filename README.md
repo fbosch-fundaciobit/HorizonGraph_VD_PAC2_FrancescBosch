@@ -4,15 +4,7 @@ Exemple de la sortida d'executar el script visualitzant la setmana 5:
 
 <img width="1920" height="975" alt="Horizon_Graph_Week_5" src="https://github.com/user-attachments/assets/f8179852-ea34-4c77-b1b7-ee8c40d971bc" />
 
-
-
-
-
-
-
-
-
-
+<br><br><br><br>
 
 Exemple de la sortida d'executar el script visualitzant la setmana 60:
 
